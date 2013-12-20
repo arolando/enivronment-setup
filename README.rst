@@ -41,6 +41,6 @@ This should install:
 
 Afterwards, you should do a few other things I didn't script out:
 
-* `Setup Virtualenv `<https://github.com/dansackett/django_setup>`_
+* `Setup Virtualenv <https://github.com/dansackett/django_setup>`_
 
 If all goes according to plan, everything should be set up correctly!
