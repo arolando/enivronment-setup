@@ -5,6 +5,7 @@ sudo service apache2 restart
 
 # SSH
 sudo apt-get install openssh-server
+ssh-keygen
 
 # Git
 sudo apt-get install git-core
