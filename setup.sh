@@ -12,9 +12,7 @@ sudo apt-get install git-core
 
 # Dotfiles
 git clone git@github.com:dansackett/dotfiles.git
-cd dotfiles
-bash make.sh
-cd
+bash dotfiles/make.sh
 
 # gVim
 sudo apt-get update
