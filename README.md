@@ -107,16 +107,9 @@ Install Spotify-notify (Growl-like pop-ups for Spotify):
 Outside of Terminal
 -------------------
 
-Install [Vagrant](https://www.vagrantup.com/downloads):
-
-    After installed run in terminal vagrant plugin install vagrant-vbguest
-
-Install [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
-
-Install [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
-
-Install [Google Chrome](https://www.google.com/intl/en-US/chrome/browser/)
-
-Install [dBeaver](http://dbeaver.jkiss.org/download/)
-
-Install [Dropbox](https://www.dropbox.com/install?os=lnx):
+* [Vagrant](https://www.vagrantup.com/downloads) (After installed run in terminal vagrant plugin install vagrant-vbguest)
+* [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
+* [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
+* [Google Chrome](https://www.google.com/intl/en-US/chrome/browser/)
+* [dBeaver](http://dbeaver.jkiss.org/download/)
+* [Dropbox](https://www.dropbox.com/install?os=lnx):
