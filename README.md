@@ -112,4 +112,4 @@ Outside of Terminal
 * [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
 * [Google Chrome](https://www.google.com/intl/en-US/chrome/browser/)
 * [dBeaver](http://dbeaver.jkiss.org/download/)
-* [Dropbox](https://www.dropbox.com/install?os=lnx):
+* [Dropbox](https://www.dropbox.com/install?os=lnx)
