@@ -47,7 +47,7 @@ Install core components:
 
     sudo apt-get install vim-gnome vim vim-common curl htop xclip terminator\
     git-core openssh-server python-setuptools libmysqlclient-dev python-pip\
-    ruby-full rubygems1.8 coffeescript redis-server nodejs npm
+    ruby-full rubygems1.8 coffeescript redis-server
 
 Install LAMP Server:
 
@@ -103,6 +103,13 @@ Install Spotify-notify (Growl-like pop-ups for Spotify):
     sudo wget https://raw.githubusercontent.com/sveint/spotify-notify/master/spotify-notify.py
     sudo chmod a+x spotify-notify.py
     python spotify-notify.py -s &
+
+Install NodeJS and NPM
+
+    sudo apt-get install -y python-software-properties
+    sudo add-apt-repository ppa:chris-lea/node.js
+    sudo apt-get update
+    sudo apt-get install nodejs
 
 Outside of Terminal
 -------------------
