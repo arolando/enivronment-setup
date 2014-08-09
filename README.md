@@ -47,7 +47,8 @@ Install core components:
 
     sudo apt-get install vim-gnome vim vim-common curl htop xclip terminator\
     git-core openssh-server python-setuptools libmysqlclient-dev python-pip\
-    ruby-full rubygems1.8 coffeescript redis-server
+    coffeescript redis-server build-essential python-dev libsqlite3-dev libreadline6-dev\
+    libgdbm-dev zlib1g-dev libbz2-dev sqlite3 zip
 
 Install LAMP Server:
 
