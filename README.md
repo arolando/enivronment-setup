@@ -42,6 +42,12 @@ Getting Setup
 Always update system first:
 
     sudo apt-get update
+    
+Prep PHP PPA:
+
+    sudo apt-get install -y python-software-properties
+    sudo add-apt-repository ppa:ondrej/php5
+    sudo apt-get update
 
 Install core components:
 
